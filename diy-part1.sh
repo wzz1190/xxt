@@ -19,6 +19,6 @@
 #echo "src/gz kuoruan_packages http://openwrt.kuoruan.net/packages/releases/$(. /etc/openwrt_release ; echo $DISTRIB_ARCH)" \
 #  >> /etc/opkg/customfeeds.conf
 
+git clone https://github.com/zxl78585/luci-app-webshell package/luci-app-webshell
 
-git clone https://github.com/zxl78585/luci-app-webshell.git package/luci-app-webshell
 
