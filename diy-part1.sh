@@ -20,5 +20,5 @@
 #  >> /etc/opkg/customfeeds.conf
 
 
-#git clone https://github.com/wzz1190/luci-app-webshell.git package/luci-app-webshell
+git clone https://github.com/zxl78585/luci-app-webshell.git package/luci-app-webshell
 
